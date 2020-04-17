@@ -1,0 +1,82 @@
+/*
+h1 {
+  color: blue;
+  font-size: 300%;
+}
+/*
+img {
+    animation-name: bounce;
+    animation-duration: 3s;
+  background-color: blue;
+}
+*/
+/*
+img:hover {
+  background-color: gold;
+}
+
+.broccoli {
+background-color: yellow
+}
+
+body{
+  background-color: #7fff00
+
+}
+
+.circular {
+  border-radius: 100%;
+} */
+body{
+  background-color: #a9d7d1;
+  text-align: center;
+  font-family: 'raleway', helvetica, sans-serif;
+  min-width: 320px;
+  vertical-align: middle;
+}
+h1{
+  margin-top: 5px;
+
+}
+h3{
+  position: absolute;
+  margin-top: 1px;
+  left: 460px;
+  top: 60px;
+}
+/* .all{
+  border: solid;
+  border-style: solid;
+  border-radius: 2px;
+} */
+
+.one{
+  position: absolute;
+  padding: 10px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  top: 84px;
+  left: 520px;
+
+}
+.two{
+  position: absolute;
+  left: 380px;
+  top:200px;
+  padding: 10px;
+  padding-bottom: 3px;
+
+}
+.three{
+  position: fixed;
+  top: 300px;
+  left: 249px;
+  padding: 10px;
+  padding-top: 3px;
+}
+div {
+  border: solid;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #FFEB3B;
+}
